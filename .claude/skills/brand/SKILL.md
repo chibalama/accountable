@@ -1,3 +1,8 @@
+---
+name: brand
+description: Accountable's fonts, colours, and other brand assets. Use it for any UI work.
+---
+
 # Brand
 
 ## Fonts
